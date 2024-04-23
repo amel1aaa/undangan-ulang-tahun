@@ -1,0 +1,41 @@
+body {
+    background-color: #083a5b;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+    background-image:url('./background\ ulng\ thn.jpg');
+    background-size: cover;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgb(166, 210, 228);
+}
+
+
+h1 {
+    color: #ffffff;
+    margin-top: 75px;
+    font-family: 'Handwritten', ;
+    font-size: 35px;
+    text-shadow: 4px 4px 4px #f1d168;
+    }
+
+h2 {
+        color: #ffffff;
+        font-family: '', serif;
+        font-size: 15px;
+        text-shadow: 4px 4px 4px #f1d168;
+        }
+
+p {
+    line-height:1;
+    margin-bottom: 20px;
+    margin-left: 100px;
+    font-family: 'Display', sans-serif;
+    font-size: 15px;
+    color: #ffffff;
+    
+    }
